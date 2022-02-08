@@ -1,2 +1,2 @@
-### Information security specialist/Junior DevSecOps engineer
+#### Information security specialist / Junior DevSecOps engineer
 
